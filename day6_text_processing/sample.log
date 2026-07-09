@@ -1,0 +1,8 @@
+2024-01-15 10:23:01 INFO Server started successfully
+2024-01-15 10:23:05 CRITICAL Failed to connect to database
+2024-01-15 10:23:10 INFO Request received from 192.168.1.5
+2024-01-15 10:23:15 WARNING Disk usage at 85%
+2024-01-15 10:24:01 CRITICAL Connection timeout
+2024-01-15 10:24:30 INFO User login successful
+2024-01-15 10:25:00 CRITICAL Database connection refused
+2024-01-15 10:25:45 INFO Request processed in 200ms
